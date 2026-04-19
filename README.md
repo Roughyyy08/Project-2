@@ -1,5 +1,7 @@
 # Personal Finance & Expense Analytics App
 
+Live Preview - https://financedashboard94.netlify.app/dashboard
+
 A React-based personal finance tracker that helps users record income/expenses, analyze spending patterns, manage budgets, and visualize financial trends.
 
 ## Features
